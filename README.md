@@ -5,7 +5,6 @@
 
 ---
 
-
 ## 🌟 Key Pillars of the Project
 
 ### 🖥️ 1. Modern Java Swing GUI

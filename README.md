@@ -2,6 +2,7 @@
 
 **PakSky** is a high-performance, desktop-based weather application built with **Java Swing**. It provides a sleek, modern interface for checking atmospheric conditions across a comprehensive database of over 80 major cities in Pakistan. Designed with a premium aesthetic, it offers a smooth and intuitive user experience for desktop users.
 
+
 ---
 
 ## 🌟 Key Pillars of the Project
